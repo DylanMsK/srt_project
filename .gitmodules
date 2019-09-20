@@ -1,0 +1,6 @@
+[submodule "srt_django"]
+	path = srt_django
+	url = https://github.com/DylanMsK/srt_django
+[submodule "srt_vue"]
+	path = srt_vue
+	url = https://github.com/DylanMsK/srt_vue
